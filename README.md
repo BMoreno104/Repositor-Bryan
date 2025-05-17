@@ -1,2 +1,1 @@
-# Repositor-Bryan
-Este es ejemplo del curso Henry
+este es un ejemplo de como crear un repositorio y clonarlo en mi computadora
